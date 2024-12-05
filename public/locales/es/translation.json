@@ -1,0 +1,11 @@
+{
+    "product": {
+        "name": "Type the name product",
+        "name.placeholder": "Nombre product",
+        "name.required": "Requerido",
+        "form": {
+            "submit": "Create"
+        }
+    }
+
+}

@@ -1,0 +1,48 @@
+{
+    "product": {
+        "form": {
+            "name": {
+                "label": "Type the name product",
+                "placeholder": "Type the name product",
+                "required": "Requerido"
+            },
+            "description": {
+                "label": "Type the product's description",
+                "placeholder": "Type the product's description",
+                "required": "Required"
+            },
+            "price": {
+                "label": "Type the product's price",
+                "placeholder": "Type the product's price",
+                "required": "Requerido"
+            },
+            "stock": {
+                "label": "Type the product's stock",
+                "placeholder": "Type the product's stock",
+                "required": "Requerido"
+            },
+            "sku": {
+
+            },
+            "brand": {
+
+            },
+            "weight": {
+
+            },
+            "color": {
+
+            },
+            "madeIn": {
+
+            },
+            "manufacturer": {
+
+            },
+            "status": {
+
+            },
+            "submit": "Create"
+        }
+    }
+}
